@@ -1,0 +1,19 @@
+.list {
+  list-style-type: none;
+}
+
+.name {
+  margin-right: 15px;
+}
+
+.dots {
+  display: inline-block;
+  width: 300px;
+  border-bottom: 2px dotted #d2d2d2;
+  color: gray;
+}
+
+.value {
+  margin-left: 15px;
+  color: rgb(46, 186, 233);
+}
